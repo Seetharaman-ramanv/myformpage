@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  background-color: rgb(203 213 225);
+  font-family:  "Google Sans", roboto, "Noto Sans Myanmar UI", arial, sans-serif;
+}
+.left_content h2 {
+  color: blue;
+}

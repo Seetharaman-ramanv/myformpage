@@ -1,0 +1,13 @@
+{
+  "short_name": "React App",
+  "name": "Create React App Sample",
+  "icons":{
+    "128": "logo192.png",
+    "48": "logo512.png",
+    "16": "logo192.png"
+},
+
+  "version": "1.0",
+"manifest_version": 3
+
+}
