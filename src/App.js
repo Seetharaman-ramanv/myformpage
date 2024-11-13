@@ -7,6 +7,7 @@ export const App = () => {
     <>
     <Signin />
     <p>This is seetha website</p>
+    <p>This is seetha website</p>
     </>
   )
 }
